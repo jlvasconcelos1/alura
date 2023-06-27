@@ -146,6 +146,10 @@
         color: var(--preto);
     }
 
+    .cabecalho_menu {
+        display: block;
+    }
+
     .cabecalho {
         padding: 0 2em;
     }

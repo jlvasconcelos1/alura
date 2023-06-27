@@ -109,7 +109,7 @@
         text-decoration: none;
     }
 
-    .container_imagem_coracao {
+    /* .container_imagem_coracao { */
         display: none;
     }
 
@@ -146,9 +146,6 @@
         color: var(--preto);
     }
 
-    .cabecalho_menu {
-        display: block;
-    }
 
     .cabecalho {
         padding: 0 2em;

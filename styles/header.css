@@ -109,7 +109,7 @@
         text-decoration: none;
     }
 
-    /* .container_imagem_coracao { */
+    .container_imagem_coracao {
         display: none;
     }
 
@@ -145,6 +145,7 @@
         text-decoration: none;
         color: var(--preto);
     }
+
 
 
     .cabecalho {
